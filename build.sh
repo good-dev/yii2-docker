@@ -1,0 +1,1 @@
+docker build -t gooddev/yii2-docker:latest ./
